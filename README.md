@@ -1,0 +1,1 @@
+# KnightPlace program in Haskell
